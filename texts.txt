@@ -1,0 +1,3 @@
+This is the sample text to test the functionality of the application.
+Fascinated by Science, Hijacked by Technology.
+Connecting nature with Technology.
